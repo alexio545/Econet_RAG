@@ -1,0 +1,778 @@
+[
+    {
+        "Question": "I purchased a data bundle but it\u2019s not yet credited to my account.",
+        "Answer": "Log your query on your self service platform, https://selfcare.econet.co.zw under \u201cMy Queries\u201d. Provide your full name and mobile number"
+    },
+    {
+        "Question": "Hi, I just purchased my daily bundles and they have exhausted though I haven\u2019t used them much.",
+        "Answer": "We would like to inform you that all our bundles are usage based and you can now track your data, airtime or SMS usage via My Web self-care. You just need to follow this link: https://selfcare.econet.co.zw/ and register."
+    },
+    {
+        "Question": "Can you send me data settings to my phone?",
+        "Answer": "Send an SMS \u201cDevice Type\u201d followed by \u201cSettings\u201d for example, \u201cAndroid Settings\u201d to 222 to receive manual settings for phone"
+    },
+    {
+        "Question": "I have WhatsApp bundle but am failing to make an App call?",
+        "Answer": "Please note that you cannot make calls using the WhatsApp bundle. In order to make calls, you will need Data bundles."
+    },
+    {
+        "Question": "I have not used my line for about 3 months now and I am failing to make calls or send messages?",
+        "Answer": "Recharge your airtime using a physical recharge card and hard reset your device. Should the problem persist do not hesitate to log your query on My Web self-care: https://selfcare.econet.co.zw"
+    },
+    {
+        "Question": "I bought my line last month and I am failing to borrow airtime. What should I do?",
+        "Answer": "Please note, in order to borrow airtime, your line has to be active for 3 months after the day of purchase. you also need to recharge more often to be eligible for credit."
+    },
+    {
+        "Question": "I over-scratched my recharge card, and I have tried *111# but I still haven\u2019t been helped.",
+        "Answer": "Dear valued customer, we are pleased to inform you that we now have several platforms other than *111# where you can check your recharge keys at the comfort of your home."
+    },
+    {
+        "Question": "I am failing to receive messages. How can this be fixed?",
+        "Answer": "In most cases, you must consider deleting other messages because your mailbox might be full. You must also check your message center number. For most devices, you find message center number under message settings. Enter the digits +263770010502. For Iphones, you need to dial **5005*7672*+263770010502#."
+    },
+    {
+        "Question": "l bought airtime for a wrong number, can this be reversed?",
+        "Answer": "Please note that whenever you send airtime or bundles to the wrong number, we are only able to perform reversal if the bundle or airtime has not been used. We strongly urge all our valued customers to take extra causion when making such transactions."
+    },
+    {
+        "Question": "I\u2019m failing to recharge my phone. What can I do?",
+        "Answer": "Kindly verify if the recharge keys you are entering are correct. You are free to log your query on My Web self-care: https://selfcare.econet.co.zw stating the serial number, batch number and 5 consecutive visible keys on your recharge card."
+    },
+    {
+        "Question": "I am failing to make calls. Can this be fixed?",
+        "Answer": "Sorry you have had such an experience. May you check if you are eligible to make the call by inquiring your airtime balance. Kindly log your query on your self service platform that is https://selfcare.econet.co.zw under \u201cMy Queries\u201d providing your full name and mobile number after confirming that you are eligible to make the call."
+    },
+    {
+        "Question": "I have blocked my line. How can I retrieve my PUK?",
+        "Answer": "Hey Buddie, retrieving your PUK is very easy. All you need to do is dial *111# on any other Econet line, select option 2 and follow the prompts. My Web self-care is another option. You just need to follow this link: https://selfcare.ecocash.co.zw/ and sign in."
+    },
+    {
+        "Question": "My airtime balance just disappeared mysteriously. Can you help me?",
+        "Answer": "Hey Buddie, there is no need to worry. We are excited to inform you that you can now track your airtime usage in the comfort of your home. You simply need to log in or sign up on web self-care on selfcare.econet.co.zw."
+    },
+    {
+        "Question": "How do I buy or check my SMS bundles?",
+        "Answer": "No problem! You just dial *140#, select option 1 and choose the option which serves you."
+    },
+    {
+        "Question": "I bought a line. Why is it still inactive?",
+        "Answer": "We would like to inform you that SIM Activation takes a maximum of 24 hours from the time of purchase. If this time elapses without activation, we urge you to visit the nearest Econet Shop for assistance."
+    },
+    {
+        "Question": "Can I buy the same bundle before the first one expires?",
+        "Answer": "Yes. Usage priority will be on the first purchased bundle and the 2nd bundle to be purchased will be used upon exhaustion or expiration of the first bundle."
+    },
+    {
+        "Question": "How many times can I purchase the Bundle of Joy per day?",
+        "Answer": "For the Daily Bundles, Daily 2Mins (2 times), Daily 4mins (2 times), Daily 10mins (1 time). The weekly Bundles have no limits on purchase counts"
+    },
+    {
+        "Question": "If I purchase a bundle and I have a positive balance in my Main Account, which account has priority for a call?",
+        "Answer": "If you are calling an Econet number, the bundle of Joy has priority but if it\u2019s a non-Econet number, the Main Account Balance will be utilized."
+    },
+    {
+        "Question": "Can I purchase a Bundle of Joy using a Postpaid line?",
+        "Answer": "No. Postpaid lines are not eligible for bundle purchase."
+    },
+    {
+        "Question": "If I purchase the bundle and I do not use it, can I still use it after the validity period has lapsed?",
+        "Answer": "No. The bundles can only be used within the period it is valid for from the time of purchase that is daily or weekly. You cannot keep the bundle for future use outside its validity period."
+    },
+    {
+        "Question": "Can I call outside the country using the bundle?",
+        "Answer": "The bundles are only valid for local Econet-to-Econet calls. However, the bundle can be used if calling a number that is roaming outside the country."
+    },
+    {
+        "Question": "Can I call other networks using the Bundle?",
+        "Answer": "The bundles are only valid for Econet to Econet calls only."
+    },
+    {
+        "Question": "What is the validity of the bundles?",
+        "Answer": "The bundles have a daily and weekly validity period."
+    },
+    {
+        "Question": "Can I purchase the bundle for another person?",
+        "Answer": "Yes. The option to Purchase for Another Econet Subscriber is available."
+    },
+    {
+        "Question": "Can I purchase the Bundles on Ecocash?",
+        "Answer": "The bundles can be purchased via Ecocash and Main Account using available airtime."
+    },
+    {
+        "Question": "When prices change will this affect the minutes available in the Bundle of Joy?",
+        "Answer": "When prices are adjusted, only the cost of the bundle is changed but the minutes remain the same."
+    },
+    {
+        "Question": "How often do you make price changes on the Bundle of Joy?",
+        "Answer": "Tariffs for the bundles are changed in line with the shifts in the operating environment."
+    },
+    {
+        "Question": "What is a bundle of Joy?",
+        "Answer": "It is a bundle that offers customers discounted on-net voice minutes. The promotional mechanics and prices are periodically reviewed and vary from time to time"
+    },
+    {
+        "Question": "What happens if I do not receive my e-newspaper?",
+        "Answer": "You can contact the publishing house"
+    },
+    {
+        "Question": "How long is the subscription period?",
+        "Answer": "You are given options from daily, weekly to monthly and quarterly depending on the selected e-newspaper"
+    },
+    {
+        "Question": "Can someone else receive and read my e-newspaper?",
+        "Answer": "No, the e-newspaper is sent directly to you and requires your password to access it."
+    },
+    {
+        "Question": "What time will I receive the e-newspaper?",
+        "Answer": "The publishing house determines the time you will receive your e-newspaper."
+    },
+    {
+        "Question": "Can I cancel my subscription?",
+        "Answer": "Yes, you can cancel at any time but there will be no refund."
+    },
+    {
+        "Question": "How many newspapers can I subscribe to at once?",
+        "Answer": "You can subscribe to as many e-newspapers as you want."
+    },
+    {
+        "Question": "Can I choose which newspaper I want to receive?",
+        "Answer": "Yes, you can choose the e-newspaper from the lists provided."
+    },
+    {
+        "Question": "Can I change my registration details?",
+        "Answer": "Yes, you can update your details at any time by dialing *185#."
+    },
+    {
+        "Question": "How will I receive my e-newspaper?",
+        "Answer": "This will depend on what you will have chosen during registration. Your e-newspaper will be sent to your email or WhatsApp."
+    },
+    {
+        "Question": "How do I pay for e-newspaper?",
+        "Answer": "You pay using Ecocash."
+    },
+    {
+        "Question": "How do I register for e-newspaper?",
+        "Answer": "You dial *185# and follow the instructions"
+    },
+    {
+        "Question": "What is e-newspaper?",
+        "Answer": "An electronic newspaper which you receive via email or WhatsApp."
+    },
+    {
+        "Question": "Can you assist me with resending a confirmation of the last transaction l made?",
+        "Answer": "We are pleased to inform you that you can now view your mini statement via EcoCash self care by following this link https://selfcare.ecocash.co.zw/portal/."
+    },
+    {
+        "Question": "l made a wallet to bank transfer but my bank was not credited, please assist?",
+        "Answer": "For any failed Bank to Wallet transaction, kindly consult your bank for assistance. In the case of failed Wallet to Bank, visit My Web self-care: https://selfcare.econet.co.zw to log your query so that we can investigate."
+    },
+    {
+        "Question": "Please assist me with my EcoCash history for this month.",
+        "Answer": "Please note that you can now check your EcoCash statement on the EcoCash selfcare platform by following this link: https://selfcare.ecocash.co.zw/portal/"
+    },
+    {
+        "Question": "My EcoCash has been barred",
+        "Answer": "This could be as a result of money that could have been sent to you by mistake or you entered the wrong pin."
+    },
+    {
+        "Question": "I made a cash out to the wrong agent, please assist.",
+        "Answer": "Good day, Kindly log in to your self-service platform, https://selfcare.ecocash.co.zw and initiate the reversal."
+    },
+    {
+        "Question": "I tried to buy airtime using EcoCash. My money was deducted but I don\u2019t have airtime",
+        "Answer": "Dear Valued customer, please note that we sometimes face system challenges which might result in your transaction failing to go through."
+    },
+    {
+        "Question": "I tried to buy goods using Ecocash but the transaction failed although money was deducted from my wallet.",
+        "Answer": "Hello, please go and collect an affidavit form from the shop you tried purchasing goods in and visit the nearest Econet shop for assistance."
+    },
+    {
+        "Question": "I tried to buy ZESA, my money was deducted and I didn\u2019t receive any token?",
+        "Answer": "We are happy to inform you that you can now view your token by simply dialing *151#, option 2, option 6, option 1, option 2. If you are not able to view your token, kindly log your query on My Web self-care: https://selfcare.ecocash.co.zw so that we investigate the matter. Please note also that reconciliations after failed ZESA payment usually have a turn around period of 72 working hours."
+    },
+    {
+        "Question": "I have reached my Ecocash monthly limit, how can I extend my limit?",
+        "Answer": "To extend your limit please link your wallet to your bank. If you have already done that, kindly wait for the following month to transact again."
+    },
+    {
+        "Question": "Is it possible to convert any bundle to voice airtime?",
+        "Answer": "Yes! conversion of any bundle to voice airtime is possible but, only if the bundle has not been used."
+    },
+    {
+        "Question": "I borrowed once but Kashagi is making multiple deductions on my EcoCash",
+        "Answer": "Please note that we are still improving our Kashagi service and we sincerely regret any inconvenience. If you encounter this challenge, kindly log on your query on My Web Self-care: https://selfcare.econet.co.zw/."
+    },
+    {
+        "Question": "I sent money to the wrong person. How do I get it back?",
+        "Answer": "We are pleased to inform you that you can now initiate EcoCash reversal at the comfort of your home via EcoCash self-care. Follow this link and sign in or register to initiate the reversal: https://selfcare.ecocash.co.zw/."
+    },
+    {
+        "Question": "I sent money to the wrong Merchant. How do I get it back?",
+        "Answer": "We urge you to visit the nearest Econet shop with your national ID and request for a dispute claim form. After submitting the form, the reversal will be done soon after reconciliations are completed."
+    },
+    {
+        "Question": "How do I register for EcoCash?",
+        "Answer": "In order for you to register for EcoCash, you simply visit any nearest Registered EcoCash agent or Econet shop with your national ID and its photocopy."
+    },
+    {
+        "Question": "Can I reset my relative`s EcoCash pin?",
+        "Answer": "Please note that we only reset the EcoCash pin provided you are the owner of the account. We do this to protect our valued customers from increasing fraudulant activities."
+    },
+    {
+        "Question": "My money was deducted 2 times this month by EcoSure.",
+        "Answer": "Good day, Kindly log your query on your self-service platform, https://selfcare.econet.co.zw under \u201cMy Queries\u201d. Provide your full name, mobile number, date, and amount, and explain the nature of your challenge."
+    },
+    {
+        "Question": "My network connectivity is very bad, what could be causing it?",
+        "Answer": "We are deeply sorry you had to experience that. We urge you to hard reset your device. If the problem persists, do not hesitate to engage us on My Web self-care: https://selfcare.econet.co.zw to log your query stating your device type and location."
+    },
+    {
+        "Question": "What is the difference between the old bundles and the new bundles?",
+        "Answer": "The difference is that there are changes that have been made to allow for more and better benefits across all the bundles and more options have been added. The changes are tabulated below"
+    },
+    {
+        "Question": "What times can I use the Off Net Allocation?",
+        "Answer": "The Off net allocation works at any time of the day provided you have the balance to call."
+    },
+    {
+        "Question": "Can I use the off-peak allocation to call off-net?",
+        "Answer": "No. Off-peak allocation is valid for on-net calls only."
+    },
+    {
+        "Question": "Can I use my Off Net Allocation to call On Net Numbers?",
+        "Answer": "No. Off Net allocation will only call off net numbers in Zimbabwe."
+    },
+    {
+        "Question": "What happens if my Off Peak Usage is depleted but I still have anytime usage?",
+        "Answer": "The anytime allocation will be used even in the off peak hours if the off peak allocation is depleted."
+    },
+    {
+        "Question": "What happens if we get to 2300Hrs, does my consumption automatically move from anytime to off peak?",
+        "Answer": "Yes. At 2300hrs, usage (Voice, Data, and SMS) will automatically move to consume the Off-Peak Allocation. At 0400hrs, usage will automatically move back to the anytime allocation."
+    },
+    {
+        "Question": "What is the difference between Off net and On net?",
+        "Answer": "Off-Net are calls made to non-Econet numbers and On-net are calls made from Econet to Econet numbers."
+    },
+    {
+        "Question": "Is it possible to use the airtime before I convert it to a bundle?",
+        "Answer": "No, the airtime is only usable after it is converted to a bundle."
+    },
+    {
+        "Question": "Am I able to transfer airtime to my friend using 111 self-service?",
+        "Answer": "No, the airtime is not transferable unless you are buying the bundle for someone else."
+    },
+    {
+        "Question": "Can I call outside the country with the USD bundles?",
+        "Answer": "No, the current bundles can only call within Zimbabwe"
+    },
+    {
+        "Question": "Can I call non-Econet numbers with the voice bundles?",
+        "Answer": "Yes, you can call other networks with any bundle that is $1 and above for the stipulated \u2018off net\u2019 allocation."
+    },
+    {
+        "Question": "Can I carry over my bundle or ask for a bundle extension in case I didn\u2019t finish my bundle allocation before expiry?",
+        "Answer": "No, you cannot carry over the bundle. You will have to use it within stipulated times."
+    },
+    {
+        "Question": "How do these bundles expire?",
+        "Answer": "The following are the expiry dates: daily (24hours), weekly (7 days), bi-weekly (14 days) and monthly (30 days)"
+    },
+    {
+        "Question": "How do I check my USD bundle balance?",
+        "Answer": "Dial *143# and go to option 8"
+    },
+    {
+        "Question": "How do I check my airtime balance?",
+        "Answer": "Dial *125# to check USD bundles"
+    },
+    {
+        "Question": "Can I buy for someone else?",
+        "Answer": "Yes you can use the buy for other option on 143 or EcoCash FCA"
+    },
+    {
+        "Question": "Can I use my USD airtime directly to make calls, send messages or browse before converting my airtime to bundles?",
+        "Answer": "You cannot use your USD airtime directly to make calls, send messages or browse before converting the airtime to bundles?"
+    },
+    {
+        "Question": "What is the difference between anytime and Off-peak?",
+        "Answer": "Anytime allocation is usable throughout the day. The off-peak allocation is usable between 2300hrs and 0400hrs only."
+    },
+    {
+        "Question": "What are the Smart USD bundles available? (Current status on 143)",
+        "Answer": "Voice"
+    },
+    {
+        "Question": "How can I purchase the bundles?",
+        "Answer": "You can purchase USD airtime directly from all Econet shops and dealers and convert it to bundles via *143#"
+    },
+    {
+        "Question": "Are they available to everyone?",
+        "Answer": "These bundles are available to all prepaid Econet customers only. (Post-paid, Hybrid, staff and telemetry lines cannot buy the bundles)"
+    },
+    {
+        "Question": "What is a Smart USD bundle?",
+        "Answer": "These are Econet discounted bundles that are purchased using USDs"
+    },
+    {
+        "Question": "How do I de-activate Faith Religious service?",
+        "Answer": "To unsubscribe the faith religious service please dial *205*3*2# and your number will be removed from that service."
+    },
+    {
+        "Question": "How do I deactivate the sports service?",
+        "Answer": "Dear valued customer, in order to deactivate sports updates, dial *717#, select the service you would wish to deactivate, select deactivate."
+    },
+    {
+        "Question": "What is an EcoSure USD policy?",
+        "Answer": "It's an EcoSure policy that's paid for in USD and gives an option to get a claim benefit in USD cash or services from EcoSure funeral service partners."
+    },
+    {
+        "Question": "How much does EcoSure USD policy cost?",
+        "Answer": "Lite USD0.75, Basic USD1.50, Standard USD3 and Premium USD7.50"
+    },
+    {
+        "Question": "What are the EcoSure USD policy benefits?",
+        "Answer": ""
+    },
+    {
+        "Question": "If I opt to get the cash value, do I get USD Cash?",
+        "Answer": "Cash in lieu will be given in USDs"
+    },
+    {
+        "Question": "How do I register on an EcoSure USD policy",
+        "Answer": "Dial *900#, select EcoSure Funeral, Individual, USD , accept terms & conditions then choose preferred package"
+    },
+    {
+        "Question": "Can a customer have both the USD and RTGS policy?",
+        "Answer": "Yes you can have both the RTGS and USD policies ."
+    },
+    {
+        "Question": "Can a customer on RTGS policy switch to a USD policy?",
+        "Answer": "Customer is able to switch from the RTGS to the USD policy. Switching customer will have a 3 months waiting period for the first 3 packages and 9 months for the premium. Death due to natural cause during the NCE period will trigger an RTGS pay-out."
+    },
+    {
+        "Question": "An individual is allowed to have how many USD policies?",
+        "Answer": "An individual is allowed to have 3 USD policies. 1 individual, 1 group and added once as a dependent."
+    },
+    {
+        "Question": "Who can I add on the policy?",
+        "Answer": "Customer is able to add the following dependents, spouse, biological/adopted children below 18, parents and in-laws below the ages of 70"
+    },
+    {
+        "Question": "Can we join USD packages as a Burial Society?",
+        "Answer": "Yes, USD packages are now also available for burial societies."
+    },
+    {
+        "Question": "Do we also have any add ons as part of the USD product?",
+        "Answer": "Do we also have any add ons as part of the USD product?"
+    },
+    {
+        "Question": "How do I pay for my EcoSure USD Policy?",
+        "Answer": "Auto-deduction from EcoCash FCA wallets or you can pay cash at our partner outlets or to our Econet Life Nostro Accounts - Steward Bank \u2013 1036091416 \u2013 Kwame Nkrumah Branch, CABS \u2013 1129869555 \u2013 Northridge Park, POSB \u2013 500004889605 \u2013 Harare Esteem Banking"
+    },
+    {
+        "Question": "Can USD policy be paid in RTGS?",
+        "Answer": "Premiums will be paid in USDs only"
+    },
+    {
+        "Question": "If I am to pay with my FCA account, how do I get in funded?",
+        "Answer": "FCA wallet can be funded through EcoCash agents and Econet shops countrywide"
+    },
+    {
+        "Question": "Are the policy terms and conditions the same with the existing one's for ZWL policies?",
+        "Answer": "Policy terms, slight difference is the guarantee of services under the USD policy."
+    },
+    {
+        "Question": "Are all the existing EcoSure Funeral Service Partners providing services for USD packages?",
+        "Answer": "Yes, USD package services will be accessible through all our current FSPs partners."
+    },
+    {
+        "Question": "Where can I get more information on the EcoSure USD Packages",
+        "Answer": "Call our toll free line 311, visitwww.facebook.com/ecosurezim, orwww.ecosure.co.zw"
+    },
+    {
+        "Question": "What is an EcoSure USD policy?",
+        "Answer": "It's an EcoSure policy that's paid for in USD and gives an option to get a claim benefit in USD cash or services from EcoSure funeral service partners."
+    },
+    {
+        "Question": "How much does EcoSure USD policy cost?",
+        "Answer": "Lite USD0.75, Basic USD1.50, Standard USD3 and Premium USD7.50"
+    },
+    {
+        "Question": "What are the EcoSure USD policy benefits?",
+        "Answer": ""
+    },
+    {
+        "Question": "If I opt to get the cash value, do I get USD Cash?",
+        "Answer": "Cash in lieu will be given in USDs"
+    },
+    {
+        "Question": "How do I register on an EcoSure USD policy",
+        "Answer": "Dial *900#, select EcoSure Funeral, Individual, USD , accept terms & conditions then choose preferred package"
+    },
+    {
+        "Question": "Can a customer have both the USD and RTGS policy?",
+        "Answer": "Yes you can have both the RTGS and USD policies ."
+    },
+    {
+        "Question": "Can a customer on RTGS policy switch to a USD policy?",
+        "Answer": "Customer is able to switch from the RTGS to the USD policy. Switching customer will have a 3 months waiting period for the first 3 packages and 9 months for the premium. Death due to natural cause during the NCE period will trigger an RTGS pay-out."
+    },
+    {
+        "Question": "An individual is allowed to have how many USD policies?",
+        "Answer": "An individual is allowed to have 3 USD policies. 1 individual, 1 group and added once as a dependent."
+    },
+    {
+        "Question": "Who can I add on the policy?",
+        "Answer": "Customer is able to add the following dependents, spouse, biological/adopted children below 18, parents and in-laws below the ages of 70"
+    },
+    {
+        "Question": "Can we join USD packages as a Burial Society?",
+        "Answer": "Yes, USD packages are now also available for burial societies."
+    },
+    {
+        "Question": "Do we also have any add ons as part of the USD product?",
+        "Answer": "Do we also have any add ons as part of the USD product?"
+    },
+    {
+        "Question": "How do I pay for my EcoSure USD Policy?",
+        "Answer": "Auto-deduction from EcoCash FCA wallets or you can pay cash at our partner outlets or to our Econet Life Nostro Accounts - Steward Bank \u2013 1036091416 \u2013 Kwame Nkrumah Branch, CABS \u2013 1129869555 \u2013 Northridge Park, POSB \u2013 500004889605 \u2013 Harare Esteem Banking"
+    },
+    {
+        "Question": "Can USD policy be paid in RTGS?",
+        "Answer": "Premiums will be paid in USDs only"
+    },
+    {
+        "Question": "If I am to pay with my FCA account, how do I get in funded?",
+        "Answer": "FCA wallet can be funded through EcoCash agents and Econet shops countrywide"
+    },
+    {
+        "Question": "Are the policy terms and conditions the same with the existing one's for ZWL policies?",
+        "Answer": "Policy terms, slight difference is the guarantee of services under the USD policy."
+    },
+    {
+        "Question": "Are all the existing EcoSure Funeral Service Partners providing services for USD packages?",
+        "Answer": "Yes, USD package services will be accessible through all our current FSPs partners."
+    },
+    {
+        "Question": "Where can I get more information on the EcoSure USD Packages",
+        "Answer": "Call our toll free line 311, visitwww.facebook.com/ecosurezim, orwww.ecosure.co.zw"
+    },
+    {
+        "Question": "What if I am resident in another country despite being a citizen of Zimbabwe?",
+        "Answer": "You are still able to register for EcoSure on your roaming Econet SIM card. On registration you will be required to select whether you are in Zimbabwe, Africa or the rest of the world. The premiums and benefits for customers based in other African countries or in the rest of the world are as follows:"
+    },
+    {
+        "Question": "How much cover do I enjoy?",
+        "Answer": "The cover depends on thepackagechosen. There are a range ofPolicy Packageoptions that are available to Customers:"
+    },
+    {
+        "Question": "How many policies can I have as a Policy Holder?",
+        "Answer": ""
+    },
+    {
+        "Question": "What if I no longer want to be covered under the EcoSure Personal Accident Cover?",
+        "Answer": "You can disable the EcoSure Personal Accident Plan on your phone by"
+    },
+    {
+        "Question": "How do I claim for a disability benefit?",
+        "Answer": "You and/or your representative can visit any Econet Service Center or EcoSure Agent to make the claim. The following documents are required to process the claim:"
+    },
+    {
+        "Question": "How do I claim for a death benefit?",
+        "Answer": "Your beneficiary and/or family members can visit any Econet Service Centre or EcoSure Agent to make the claim. The following documents are required to process the claim:"
+    },
+    {
+        "Question": "How much will my Dependants be covered for?",
+        "Answer": "Each dependant will be covered for $100,000 and will each pay a premium of $100 per month."
+    },
+    {
+        "Question": "How can I register my Dependants?",
+        "Answer": "When you register for EcoSure Personal Accident Cover, ALL your dependants under EcoSure Funeral Cover will be covered under the EcoSure Personal Accident Cover."
+    },
+    {
+        "Question": "What is a Dependant?",
+        "Answer": "A Dependant is a person whom the Insured has a legal duty to support. EcoSure Personal Accident Cover allows you to register these members of the extended family as dependants;"
+    },
+    {
+        "Question": "When does my policy become active?",
+        "Answer": "Your policy becomes active immediately if registration has been completed between the 1st and 10th day of the month. If registration is completed after the 10th, then the policy becomes active on the 1st day of the following month. Registration is complete once your first premium has been deducted from your EcoCash wallet."
+    },
+    {
+        "Question": "How do I register for EcoSure Personal Accident Cover on my mobile number?",
+        "Answer": "To register for EcoSure Personal Accident Cover;"
+    },
+    {
+        "Question": "When should I make a cash deposit into my EcoCash wallet for the premium renewal to be effected in that month?",
+        "Answer": "You must ensure that you have paid your monthly premium by the 1st of every month. To do so you must ensure that you have deposited cash into your EcoCash wallet any time from the 20th of the month for the premium due the 1st of the next month. You have until the 10th of the next month to ensure that your policy remains active. If you do not pay by the 10th of the month your policy will lapse."
+    },
+    {
+        "Question": "Will I incur any additional charges on EcoSure?",
+        "Answer": "Normal EcoCash charges apply for all deductions made from your EcoCash wallet towards your EcoSure Personal Accident Cover premium payment."
+    },
+    {
+        "Question": "Can I pay the premium for EcoSure Funeral Cover and EcoSure Personal Accident Cover separately?",
+        "Answer": "No. Once you register for both, your monthly premium must be paid at once for the two benefits."
+    },
+    {
+        "Question": "How do I pay my monthly EcoSure Personal Accident Cover premiums?",
+        "Answer": "An automatic deduction will be done through your EcoCash wallet as soon as you register and monthly as from the 25th of every month to the 10th of the following month. You can initiate payment through the EcoSure menu or payment can be done by a sponsor who pays the premium on your behalf through his/her EcoCash wallet."
+    },
+    {
+        "Question": "How will the benefits be paid considering that I will have both the EcoSure Funeral Cover and the EcoSure Personal Accident Cover?",
+        "Answer": "Both benefits are paid to your appointed beneficiary. If a Funeral Service Provider is selected as a beneficiary, the EcoSure Funeral Cover benefit will be paid to the Funeral Service Provider while the Accident benefit is paid into your surviving beneficiary\u2019s Bank Account."
+    },
+    {
+        "Question": "How much cover do I receive?",
+        "Answer": "For an additional premium of $50\u00a0to your EcoSure Funeral Cover Policy, your dependants will receive an additional death benefit of $500,000. The benefit of $500,000 is also paid to you in the event of permanent disability due to an accident."
+    },
+    {
+        "Question": "What are the requirements for one to register as an Individual Policyholder on EcoSure Personal Accident Cover on their mobile phone?",
+        "Answer": "For one to register for EcoSure Personal Accident Cover on their mobile number, one must have:"
+    },
+    {
+        "Question": "How many Personal Accident Policies can an individual have?",
+        "Answer": "An individual can have only ONE (1) Personal Accident Policy."
+    },
+    {
+        "Question": "Can I be on EcoSure Personal Accident Cover only and not on EcoSure Funeral Cover?",
+        "Answer": "Unfortunately, not, you need to first register on any of the EcoSure Funeral Cover packages first for you to be able to register on EcoSure Personal Accident Cover."
+    },
+    {
+        "Question": "What is accidental disability or disability due to accident",
+        "Answer": "Accidental Disability refers to permanent loss of one or both hands or feet, or the complete and irrecoverable loss of sight in one or both eyes of the Customer arising from accidental cause(s) independent of any other cause."
+    },
+    {
+        "Question": "What is accidental death or death due to accident?",
+        "Answer": "Death by Accident means an unforeseeable and unintentional event that occurs after the Commencement Date and which, in an external and visible manner, independently of any other cause, directly results in the death of the Insured"
+    },
+    {
+        "Question": "Why do I need EcoSure Personal Accident Cover?",
+        "Answer": "EcoSure Personal Accident Cover will provide financial assistance to your family in the event of your accidental death or the accidental death of a loved one covered by EcoSure Personal Accident Cover. It also provides finance assistance to you in the event that you are permanently disabled due to accident."
+    },
+    {
+        "Question": "What is the EcoSure Personal Accident Cover?",
+        "Answer": "EcoSure Personal Accident Cover is a policy focused on providing life assurance cover that entitles a promised amount and/or benefit determined by the Policy Package to be paid out in the event accidental death or permanent disability of yourself or of your a loved one due to accident. The promised amount and or benefits is paid ONLY in the event of accidental death or disability due to accident."
+    },
+    {
+        "Question": "How do I get in touch with Econet Life if I have any queries and/or need any clarification on the product?",
+        "Answer": "You can to dial 311 or email us atecosureoperations@econet.co.zw"
+    },
+    {
+        "Question": "What is required for one to submit a claim in the event of death of a loved one?",
+        "Answer": "The following are the claim requirements:"
+    },
+    {
+        "Question": "If a society skips 2 months of premium payment, can they pay for the arrears and avoid the additional 2 months waiting period added.",
+        "Answer": "No, we don\u2019t pay premiums for arrears. We only accept advance premium payments only."
+    },
+    {
+        "Question": "What happens if our society skips premium payments for one month?",
+        "Answer": "Any skipped premium payment will attract a waiting period. If you skip as a group for a month you are given an additional 1 month waiting period. Skipping premiums for more than 3 consecutive months will result in the society being de-registered and closed on EcoSure."
+    },
+    {
+        "Question": "Can monthly premium payments for Burial Societies be paid in instalments?",
+        "Answer": "No, all burial society payments should be paid in full and at once on or before the 10th day of every month. No part-premium payments are allowed."
+    },
+    {
+        "Question": "What about Corporates?",
+        "Answer": "Deductions are made from payroll or the corporate can pay on behalf of its employees. Payments are submitted to EcoSure by the HR department by a deposit of funds into the following Steward Bank account:Steward BankEMMT Trust account101 Kwame Nkrumah BranchA/c 1000392142Reference Code 92809Indicate Name of Company"
+    },
+    {
+        "Question": "How do members pay their premiums?",
+        "Answer": ""
+    },
+    {
+        "Question": "How many members can be covered in a Burial Society?",
+        "Answer": "A Burial Society needs to have a minimum of 20 members to be registered. There is no limit to the number of members that can join the Burial Society."
+    },
+    {
+        "Question": "In the event that we want to add or remove members on our Burial Society, what should we do?",
+        "Answer": "Any additions or removals and corrections of the society`s membership should be submitted to the nearest Econet Shop on or before the 1st day of each month. The executive should fill in the changes on the Additions and removals form and sign \u2013 off before submission."
+    },
+    {
+        "Question": "Can I add my grandparents or parents above the age of 70 in the burial society?",
+        "Answer": "Yes, it is possible to add them. They will only be eligible to the register for EcoSure Lite, Basic or Standard Packages with a 9 months NCE period. All members above the age of 70 will have limited benefits."
+    },
+    {
+        "Question": "Is it mandatory for every society to have its own Merchant Account?",
+        "Answer": "Yes, it is, the merchant account is the medium of payment for both monthly premiums and Claim pay-outs in the event of a claim."
+    },
+    {
+        "Question": "How many Burial Societies can one join?",
+        "Answer": "A Burial Society member whether as a Policy Holder or Dependant can be covered by only one Burial Society except where a special waiver has been sought from the insurer. Should it be later discovered that a member is registered by another Burial Society, claims shall be paid for the policy registered first only and Premiums paid for any latter Burial Societies shall be forfeited."
+    },
+    {
+        "Question": "What are the requirements for one to register as a Society on EcoSure?",
+        "Answer": "The following are the application requirements for Societies or Groups:"
+    },
+    {
+        "Question": "What is a Burial Society?",
+        "Answer": "An EcoSure Burial Society is a group of people formally organised with the sole purpose of assisting each other in the event of death of one of their members or a of a member\u2019s Dependant. The Burial Society is approved and registered by the Insurer and which an Insured is a member of. It is specifically provided that the Insured\u2019s Burial Society will assist with burial arrangements and logistics as provided in the Burial Society\u2019s constitution."
+    },
+    {
+        "Question": "If my policy is not up to date will I get a fraction of the pay-out?",
+        "Answer": "Unfortunately, the policy will only pay-out policy holders who are paid up at the time of death. We urge you to ensure that your policy is paid up at all times and will send you regular reminders before your policy expires."
+    },
+    {
+        "Question": "Are there any other means of payment other than cash?",
+        "Answer": "For the convenience of you our valued customer, the EcoSure system is linked directly to the EcoCash system to enable you to make payment from anywhere at any time."
+    },
+    {
+        "Question": "Does the policy mature?",
+        "Answer": "The EcoSure is a life assurance policy which pays out/ matures upon the death of the policy holder."
+    },
+    {
+        "Question": "Are there any policy documents?",
+        "Answer": "EcoSure is a mobile based life assurance policy where all policy details are stored on the mobile phone. Your mobile number identifies all policy holders in our system and enables playouts to be made upon notification of the death of a policy holder."
+    },
+    {
+        "Question": "Does the EcoSure Policy mature?",
+        "Answer": "The policy does not mature and one pays his or her premiums till death."
+    },
+    {
+        "Question": "I did not receive a confirmation message after I made a payment. How do I know my I am covered?",
+        "Answer": "We may experience systems challenges from time to time that may affect delivery of confirmation message. To check the status of your policy dial *900# enter your EcoCash PIN, select view policy. The system will indicate the status of your policy."
+    },
+    {
+        "Question": "How do I downgrade or upgrade from a policy?",
+        "Answer": "You can upgrade or downgrade your policy from your mobile phone a maximum of two times in a year after your waiting period expires. To change your policy dial*900# and enter your EcoCash PIN, selectManage Policy.Select the plan you want to change to. Confirm the plan and the premiums. You will receive an SMS confirming the change in plan and the new waiting period. Normal NCE periods will apply for whatever package you apply for. Accidental death will be paid out according to the new package."
+    },
+    {
+        "Question": "Can my line be re-used by a different person should I die?",
+        "Answer": "Yes, a new person can register their own policy using your line with their ID particulars."
+    },
+    {
+        "Question": "How will you know that I am dead?",
+        "Answer": "Your beneficiary and/or family members can visit any Econet Service Center or EcoSure Agent to make the claim. The following documents are required to process the claim:"
+    },
+    {
+        "Question": "Are there any exclusions where a claim is not payable?",
+        "Answer": "The following exclusions apply:"
+    },
+    {
+        "Question": "What happens if I have a policy but die just after my funeral cover has lapsed?",
+        "Answer": "The claim will be declined. You will need to ensure that your premium payments are up to date all the time."
+    },
+    {
+        "Question": "What is the turn-around time for claims?",
+        "Answer": "Claims can be submitted at all Econet Shops or EcoSure Funeral partners\u2019 outlets. Claims must be submitted within 48 hours of death to ensure processing within reasonable time. Claims submitted after 48 hours of death will take no less than one week."
+    },
+    {
+        "Question": "Am I covered no matter how I die?",
+        "Answer": "No, you will not be covered if your death is as a result of the following:"
+    },
+    {
+        "Question": "What happens if I am covered and I die outside of Zimbabwe?",
+        "Answer": "So long as you were resident in Zimbabwe when you registered and premiums are up to date your Funeral Cover is valid regardless of where you die."
+    },
+    {
+        "Question": "Can I change my beneficiary?",
+        "Answer": "Yes, it is possible to change your beneficiary. In fact, it is very important you review your beneficiary on a regular basis because overtime your circumstances change e.g. your chosen beneficiary may have passed away. One is allowed to add or remove a beneficiary for a maximum of 3 times within a year."
+    },
+    {
+        "Question": "Can I leave the death benefit to anyone other than the specified beneficiary i.e. charitable organisations?",
+        "Answer": "No, you can only leave the death benefits to an Individual, Burial Society or a Funeral service provider you have selected as the beneficiary."
+    },
+    {
+        "Question": "What happens if I did not appoint a beneficiary? Will my family members be able to make a claim in the event of my death and receive the benefit?",
+        "Answer": "Where no Beneficiary is specified the benefit will be paid to your spouse. If there is no spouse the benefit will be paid to a beneficiary nominated by three relatives after submission of ID\u2019s with the same surname. All documents are to be submitted to your nearest Econet Shop or EcoSure Agent which includes Funeral Service Providers who have partnered with EcoSure."
+    },
+    {
+        "Question": "Can a minor appointed as a beneficiary make a claim?",
+        "Answer": "A minor above the age of 16 with an active Econet SIM card which is also registered on EcoCash can be appointed as a beneficiary. However, if the beneficiary is still below the age of 18, the guardian upon proof of guardianship can claim on behalf of a minor."
+    },
+    {
+        "Question": "Does the beneficiary get to know that he is the beneficiary?",
+        "Answer": "It is advisable to tell the beneficiary so that in the event of your death they can make a quickly submit the claim for processing. However, it is up to you to decide how you advise the beneficiary about the policy."
+    },
+    {
+        "Question": "Who can I register to be a Beneficiary?",
+        "Answer": "A beneficiary can be any individual known to you whom you trust, a Funeral Service provider or a Burial Society."
+    },
+    {
+        "Question": "Can I have more than one beneficiary?",
+        "Answer": "You can nominate only nominate one Beneficiaries. However, you can also opt to have services from any of our Funeral Service Providers instead of a cash pay-out via EcoCash."
+    },
+    {
+        "Question": "What is a beneficiary?",
+        "Answer": "A beneficiary is the Individual or an EcoSure registered Entity (Funeral Service Provider or Burial Society) nominated by you to receive the benefit of the policy in the event of your death or the death of a loved one covered on EcoSure Funeral Cover. An individual selected as a Beneficiary must have an active Econet SIM card that is also registered on EcoCash."
+    },
+    {
+        "Question": "Under the Thwala Sonke, how many family members can I add and can I add my extended family.",
+        "Answer": "The Thwala Sonke option allows you to add as many spouses as you have and your extended family as your dependants. All dependants added should be below the age of 70."
+    },
+    {
+        "Question": "Can I pay premiums for other people who are not my immediate Dependants?",
+        "Answer": "Yes, one has an option of sponsoring premiums of their loved ones. Your loved one must be registered on EcoSure in their individual capacity. Thereafter you have to either:Sponsor them once off by dialling *900#, entering your EcoCash PIN, selectingMake payment \u2013Other accountfor one, three, six, nine or twelve months or; have their premiums automatically deducted from your wallet monthly by dialling *900#, entering your EcoCash PIN, selectingAuto Sponsor. Confirmation means premiums of your loved ones will now be collected directly from your EcoCash wallet monthly."
+    },
+    {
+        "Question": "How much will my Dependants be covered for?",
+        "Answer": "Your whole family will be on the same package as you are with the same sum assured. Premiums will be deducted per head e.g. if a customer is on the Basic Package ($4) and they add a spouse the new monthly premium will now be $8\u00a0($4\u00a0for the policyholder and $4\u00a0for the Dependant spouse)."
+    },
+    {
+        "Question": "How can I register my Dependants?",
+        "Answer": "You register a Dependant by dialling *900#, entering your EcoCash PIN and selecting option 5- Thwala Sonke and follow the instructions thereafter. You must ensure that you have all the following information at hand:"
+    },
+    {
+        "Question": "What is a Dependant?",
+        "Answer": "A Dependant is a person whom the Insured has a legal duty to support. For purposes of these guidelines and the Burial Society EcoSure Funeral Cover these are the Insured\u2019s extended family members who are;"
+    },
+    {
+        "Question": "Should I disclose the Policy details to my spouse?",
+        "Answer": "It is up to you to decide whether to disclose the information."
+    },
+    {
+        "Question": "If I lose my SIM card, can I have my policy transferred to my new SIM card?",
+        "Answer": "Yes. Your policy can be transferred to your new SIM card. However, you will need to advise Econet as soon as possible to ensure that you do not lose cover should premiums not be paid."
+    },
+    {
+        "Question": "Will I be issued with any documentation for my policy?",
+        "Answer": "No documents are issued for this product. However, should you require a print out of your policy you can get this at any Econet Service Centre countrywide."
+    },
+    {
+        "Question": "Should I register again if I want to reinstate my lapsed policy?",
+        "Answer": "Registration details are sent only once. To reinstate your lapsed policy, you just have to deposit cash into your EcoCash wallet or initiate payment through the EcoSure menu. An exclusion due to death by natural causes will be applied in the event of a claim depending on the length your policy had lapsed up to a maximum of three (3) months. A policy cannot be reinstated if premiums have been skipped for three (3) consecutive months."
+    },
+    {
+        "Question": "What happens if I do not pay the premium?",
+        "Answer": "You must make sure you have money in your EcoCash wallet to cover the monthly premium. If funds are not available your policy will lapse and you will no longer be covered."
+    },
+    {
+        "Question": "When does my Policy become active?",
+        "Answer": "Your Policy becomes active once your first premium has been deducted from your EcoCash wallet. You have 30 days from registration to cash-in to your wallet and activate your policy. Should you exceed 30 days after registration without doing so the registration will fail and you will have to start the registration process again. Once you have registered and paid the initial premium, the system will send you an SMS confirming the policy commencement date and the next premium due date."
+    },
+    {
+        "Question": "How do I register for EcoSure Funeral Cover using my mobile number?",
+        "Answer": "To register for EcoSure Funeral Cover on your mobile number simply dial *900#, enter your EcoCash PIN and follow the instructions thereafter. You must ensure that you have sufficient funds in your EcoCash account to cover your first premium and activate your policy."
+    },
+    {
+        "Question": "When should I make a cash deposit into my EcoCash wallet for the premium renewal to be affected in that month?",
+        "Answer": "You must ensure that you have paid your monthly premium by the 1st of every month. To do so you must ensure that you have deposited cash into your EcoCash wallet any time from the 20th of the month for the premium due the 1st of the next month. You have until the 10th of the next month to ensure that your policy remains active. If you do not pay by the 10th of the month your policy will lapse."
+    },
+    {
+        "Question": "Will I incur any additional charges on EcoSure?",
+        "Answer": "Normal EcoCash charges apply for all deductions made from your EcoCash wallet towards your EcoSure Funeral Cover premium payment."
+    },
+    {
+        "Question": "How do I pay my monthly EcoSure Premiums?",
+        "Answer": "An automatic deduction will be done through your EcoCash wallet as soon as you register and monthly as from the 25th of every month to the 10th of the following month. You can initiate payment through the EcoSure menu or payment can be done by a sponsor who pays the premium on your behalf through his/her EcoCash wallet."
+    },
+    {
+        "Question": "What are the requirements for one to register as an Individual Policyholder on EcoSure on their mobile phone?",
+        "Answer": "For one to register for EcoSure Funeral Cover on their mobile number, one must have:"
+    },
+    {
+        "Question": "Can I register for EcoSure, if I have an existing funeral policy with another Funeral service provider?",
+        "Answer": "Yes, you can register for EcoSure Funeral Cover in addition to any other funeral policy you may have. A cash pay-out will be done via EcoCash to your Beneficiary in the event of your death or the death of a loved one covered by EcoSure Funeral Cover."
+    },
+    {
+        "Question": "Why do I need EcoSure Funeral Cover?",
+        "Answer": "EcoSure Funeral Cover will provide financial assistance to your family in the event of your death or the death of a loved one covered by EcoSure Funeral Cover."
+    },
+    {
+        "Question": "What is EcoSure Funeral Cover?",
+        "Answer": "EcoSure Funeral Cover is a product focused on providing funeral assurance cover that entitles a promised amount and or benefit determined by the Policy Package to be paid out in the event of death of your death or the death of a loved one covered by EcoSure Funeral Cover."
+    }
+]
